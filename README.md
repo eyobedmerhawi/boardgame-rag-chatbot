@@ -1,3 +1,11 @@
+## Enhancements
+
+- Implemented Retrieval-Augmented Generation (RAG) pipeline
+- Added semantic search with ChromaDB and Sentence Transformers
+- Generated grounded responses using Groq LLMs
+- Extended support from 8 to 9 board games by adding Connect 4
+- Re-indexed vector database and validated retrieval across custom rulebooks
+
 # 🎲 RulesBot
 
 > A board game rules assistant — because "just read the rulebook" isn't always helpful at 11pm on game night.
